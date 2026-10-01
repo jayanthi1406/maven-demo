@@ -11,7 +11,7 @@ public class grade_calculator {
 	}
 	public static boolean ispass(double average)
 	{
-		return average >=22.0;
+		return average >=80.0;
 	}
 	public static void main(String[] args) 
 	{
